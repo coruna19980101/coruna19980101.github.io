@@ -2,6 +2,6 @@
 ---
 @import "minimal-mistakes";
 
-html {
-    background-color: #f0fff0 !important;
+html, body, .masthead, .initial-content {
+  background-color: #f0fff0 !important;
 }
